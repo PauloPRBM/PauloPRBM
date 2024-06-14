@@ -1,8 +1,8 @@
-# **PORTIFÓLIO VINICIUS NUNES - 2022**
+# **PAULO MENDES - 2024**
 
 ![](./img/DESKTOP.png)
 
-## [Clique aqui](https://viniciusnunes137.github.io/portifolio/) para acessar o site
+## [Clique aqui](https://github.com/PauloPRBM/PauloPRBM.github.io) para acessar o site
 
 ## **SOBRE**
 
@@ -35,5 +35,5 @@
 
 ## **AUTOR**
 
-- [VINICIUS NUNES](https://github.com/VINICIUSNUNES137)
+- [Paulo Mendes]([https://github.com/VINICIUSNUNES137](https://github.com/PauloPRBM)
 
