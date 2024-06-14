@@ -35,5 +35,5 @@
 
 ## **AUTOR**
 
-- [Paulo Mendes]([https://github.com/VINICIUSNUNES137](https://github.com/PauloPRBM)
+- [Paulo Mendes](https://github.com/PauloPRBM)
 
